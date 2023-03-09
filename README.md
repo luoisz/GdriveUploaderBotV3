@@ -20,7 +20,7 @@
 ## Deploying
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gillommnathony/GdriveUploaderBotV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/luoisz/GdriveUploaderBotV3)
 
 ### Deploy on Railway
 
